@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gert/CLionProjects/twitter_sisop2/twitter_server.cpp
+iostream
+-
+twitter_server.h
+/home/gert/CLionProjects/twitter_sisop2/twitter_server.h
+
+/home/gert/CLionProjects/twitter_sisop2/twitter_server.h
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+netdb.h
+-
+cstdio
+-
+cstdlib
+-
+unistd.h
+-
+cstring
+-
+pthread.h
+-
+cerrno
+-
+dirent.h
+-
+ctime
+-
+sys/stat.h
+-
+list
+-
+

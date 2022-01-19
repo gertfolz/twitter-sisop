@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/twitter_sisop2.dir/main.cpp.o CMakeFiles/twitter_sisop2.dir/twitter_server.cpp.o CMakeFiles/twitter_sisop2.dir/twitter_client.cpp.o  -o twitter_sisop2 
